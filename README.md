@@ -2,15 +2,15 @@
 
 The Detection Rule License (DRL) is a license made for open source detection logic as shared in e.g. YARA, Sigma or Snort rules.
 
-It is very permissive and allows the private and commercial use of the detection logic as long as the author of the rule is mentioned in the reproduction of the rules as well a output showing matches with the licenses rule.
+It is very permissive and allows the private and commercial use of the detection logic **as long as the author of the rule is mentioned in the reproduction of the rules as well a output showing matches** with the licenses rule.
+
+One could also say: *"You can do anything with the rule as long as you give credit to the author."*
 
 ## License Text
 
 The full license text can be found [here](./LICENSE.Detection.Rules.md).
 
 ## Characteristics
-
-* it is based on the 
 
 | Characteristic               | Value       |
 |------------------------------|-------------|
