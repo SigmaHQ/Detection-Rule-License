@@ -6,9 +6,13 @@ It is very permissive and allows the private and commercial use of the detection
 
 One could also say: *"You can do anything with the rule as long as you give credit to the author."*
 
+The attribution is also required when showing matches with the detection rules licensed under the DRL. This means that vendors using a rule licensed under DRL have to include the author in views that show matches. (e.g. in a separate field or column)
+
 ## License Text
 
 The full license text can be found [here](./LICENSE.Detection.Rules.md).
+
+This location will not change and can be used in order to link to the license text.
 
 ## Characteristics
 
