@@ -25,7 +25,7 @@ This location will not change and can be used in order to link to the license te
 | Commercial Use               | Yes         |
 | Liability                    | No          |
 | Warranty                     | No          |
-| Licence and Copyright Notice | Yes         |
+| License and Copyright Notice | Yes         |
 | Author Attribution           | Required    |
 
 ## Version History
