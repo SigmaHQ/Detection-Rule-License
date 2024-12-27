@@ -14,6 +14,10 @@ The full license text can be found [here](./LICENSE.Detection.Rules.md).
 
 This location will not change and can be used in order to link to the license text.
 
+## License SPDX 
+
+- `DRL-1.1` is the [official tag at SPDX](https://spdx.org/licenses/DRL-1.1.html) to SPDX short identifier to label content under DRL.
+
 ## Characteristics
 
 | Characteristic               | Value       |
